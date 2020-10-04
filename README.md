@@ -1,4 +1,4 @@
-# mm
+# Firebase MLKit - Flutter App
 
 A new Flutter project.
 
